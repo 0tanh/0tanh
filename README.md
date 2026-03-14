@@ -21,4 +21,5 @@ I like learning about DSP and programming theory!
 - :transgender_flag: Pronouns: She/her!
 - 🔭 I’m currently working on .. My first HomeLab! Futzing around with ProxMox right now
 - 💬 Ask me about ... Freaking Dubstep music 
-![CoolTexute]("./cool texture.png">)
+
+![CoolTexute]("./cool texture.png")
