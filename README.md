@@ -1,30 +1,228 @@
-## Hi everynyan! 👋
+## Hai everynyan! 👋
 
-I'm a freaking audio engineer & software development student currently studying at <a href=https://wethinkcode.co.za> WeThinkCode </a>
+<blockquote> 
 
+*Computer is toys*
 
-- 😄 Pronouns: She/her!
+</blockquote>
 
-- 🔭 I’m currently working on ..
-My first HomeLab!
-
-- 💬 Ask me about ...
-Freaking Dubstep music 
-
-## Languages
-<div align="center">
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 </div>
-<!--
-**0tanh/0tanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+## *About me* 
+I'm a freaking audio engineer & software development student currently studying at <a href=https://wethinkcode.co.za> WeThinkCode_ </a> :snake: :coffee: :crab:
+
+I want to help design beautiful systems for the old and busted hardware I grew up around!
+
+
+- :transgender_flag: Pronouns: She/her!
+- 🔭 I’m currently working on .. My first HomeLab! Futzing around with ProxMox right now
+- 💬 Ask me about ... Freaking Dubstep music 
+
+<foreignObject>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="892.04755"
+   height="959.33057"
+   viewBox="0 0 892.04755 959.33057"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="X"
+       refX="0"
+       refY="0"
+       orient="auto"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1"
+         d="M -3,3 3,-3 M 3,3 -3,-3"
+         id="path24" />
+    </marker>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       height="1.3256511"
+       y="-0.16238661"
+       width="1.2868228"
+       x="-0.14341141"
+       id="filter51">
+      <feGaussianBlur
+         result="result8"
+         stdDeviation="2.9307359"
+         in="SourceGraphic"
+         id="feGaussianBlur45" />
+      <feComposite
+         result="result19"
+         operator="xor"
+         in2="result8"
+         id="feComposite45" />
+      <feComposite
+         in2="result8"
+         result="result17"
+         operator="arithmetic"
+         k2="1"
+         id="feComposite46"
+         k1="0"
+         k3="0"
+         k4="0" />
+      <feComposite
+         operator="xor"
+         result="result6"
+         in2="result17"
+         id="feComposite47" />
+      <feOffset
+         in="result6"
+         result="result18"
+         id="feOffset47" />
+      <feDisplacementMap
+         result="result4"
+         scale="100"
+         yChannelSelector="A"
+         xChannelSelector="A"
+         in="result18"
+         in2="result17"
+         id="feDisplacementMap47" />
+      <feComposite
+         k3="1"
+         operator="arithmetic"
+         result="result2"
+         in2="result4"
+         in="result4"
+         id="feComposite48"
+         k1="0"
+         k2="0"
+         k4="0" />
+      <feComposite
+         operator="over"
+         in="result2"
+         result="fbSourceGraphic"
+         in2="result2"
+         id="feComposite49" />
+      <feComposite
+         result="result15"
+         operator="xor"
+         in2="SourceGraphic"
+         in="fbSourceGraphic"
+         id="feComposite50" />
+      <feComposite
+         in="result15"
+         operator="in"
+         in2="result8"
+         result="result16"
+         id="feComposite51" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       height="1.0580396"
+       y="-0.028914351"
+       width="1.0625703"
+       x="-0.031285159"
+       id="filter58">
+      <feGaussianBlur
+         result="result8"
+         stdDeviation="3.5510135"
+         in="SourceGraphic"
+         id="feGaussianBlur51" />
+      <feComposite
+         result="result19"
+         operator="xor"
+         in2="result8"
+         id="feComposite52" />
+      <feComposite
+         in2="result8"
+         result="result17"
+         operator="arithmetic"
+         k2="1"
+         id="feComposite53"
+         k1="0"
+         k3="0"
+         k4="0" />
+      <feComposite
+         operator="xor"
+         result="result6"
+         in2="result17"
+         id="feComposite54" />
+      <feOffset
+         in="result6"
+         result="result18"
+         id="feOffset54" />
+      <feDisplacementMap
+         result="result4"
+         scale="100"
+         yChannelSelector="A"
+         xChannelSelector="A"
+         in="result18"
+         in2="result17"
+         id="feDisplacementMap54" />
+      <feComposite
+         k3="1"
+         operator="arithmetic"
+         result="result2"
+         in2="result4"
+         in="result4"
+         id="feComposite55"
+         k1="0"
+         k2="0"
+         k4="0" />
+      <feComposite
+         operator="over"
+         in="result2"
+         result="fbSourceGraphic"
+         in2="result2"
+         id="feComposite56" />
+      <feComposite
+         result="result15"
+         operator="xor"
+         in2="SourceGraphic"
+         in="fbSourceGraphic"
+         id="feComposite57" />
+      <feComposite
+         in="result15"
+         operator="in"
+         in2="result8"
+         result="result16"
+         id="feComposite58" />
+    </filter>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-541.31244,-60.334747)">
+    <g
+       id="g58"
+       transform="matrix(1.6610023,0,0,1.6610023,-608.69385,-376.34293)">
+      <g
+         id="g45"
+         transform="translate(-108.88369,22.687103)"
+         style="filter:url(#filter51)">
+        <path
+           id="path5"
+           style="fill:none;stroke:#000000;stroke-width:13;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#X);marker-mid:url(#X)"
+           d="m 1034.1678,473.12626 -94.63084,4.45313 -51.59766,84.43359 c 30.28777,59.19349 77.68382,121.28571 149.1347,146.56836 l -2.5156,-203.84179 z m 69.4318,0 94.6308,4.45313 51.5977,84.43359 c -30.2878,59.19349 -77.6838,121.28571 -149.1347,146.56836 l 2.5156,-203.84179 z" />
+        <path
+           id="path4"
+           style="fill:none;stroke:#000000;stroke-width:13;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#X);marker-mid:url(#X)"
+           d="m 1068.0595,476.33393 -32.3106,-29.37305 -17.9765,29.41602 -43.51958,71.21289 94.63088,-4.45313 z m 1.6484,0 32.3106,-29.37305 17.9765,29.41602 43.5196,71.21289 -94.6309,-4.45313 z" />
+        <path
+           id="path3"
+           style="fill:none;stroke:#000000;stroke-width:13;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#X);marker-mid:url(#X)"
+           d="m 1032.3475,325.7083 -31.3145,51.24218 32.3106,29.37305 z m 73.0724,0 31.3145,51.24218 -32.3106,29.37305 z" />
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:14.5;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter58)"
+         d="m 880.27694,275.08655 c -24.09655,-2.32223 -44.06131,12.66884 -65.25308,21.75103 -16.68995,7.15283 -34.30846,13.43606 -49.89942,23.0305 -4.65155,2.86248 -8.48348,6.88259 -12.79473,10.23578 -5.02185,3.90588 -10.52435,7.37583 -15.35366,11.51525 -1.37384,1.17757 -2.36601,2.78669 -3.83842,3.83841 -1.55206,1.10861 -3.65264,1.33791 -5.11789,2.55895 -1.18132,0.98443 -1.57451,2.65709 -2.55895,3.83841 -1.15838,1.39006 -2.68003,2.44837 -3.83841,3.83842 -3.07481,3.68977 -3.07955,7.43858 -5.11789,11.51525 -0.43064,0.86127 -3.51924,4.80148 -3.83842,6.39736 -1.01035,5.05174 -1.53117,10.2148 -2.55894,15.35367 -1.49685,7.48422 -6.20771,16.96434 -7.67684,24.30998 -1.24881,6.24406 -0.0235,12.91207 -1.27947,19.19208 -0.51183,2.55915 -2.04711,5.11769 -2.55894,7.67683 -0.25093,1.25463 0.25092,2.58379 0,3.83842 -0.37049,1.85243 -2.18846,4.54493 -2.55895,6.39736 -0.7207,3.60353 -1.38762,6.72182 -2.55894,10.23578 -0.97833,2.93499 1.36813,7.49952 0,10.23578 -1.78824,3.57646 -0.57421,6.00416 -1.27948,10.23578 -1.89181,11.35091 -3.83603,23.00905 -5.11788,34.54575 -0.48031,4.32277 -2.12617,8.46694 -2.55895,12.79472 -0.52457,5.24572 -1.17314,29.95954 0,35.82523 1.91049,9.55242 8.63714,29.1087 15.35367,35.82522 1.46627,1.46627 4.93109,2.37215 6.39736,3.83842 0.67434,0.67434 0.60513,1.8846 1.27947,2.55894 0.60315,0.60315 1.9558,-0.60315 2.55895,0 0.63115,0.63116 -0.45475,12.25522 0,14.0742 0.84419,3.37676 2.85914,6.80832 3.83841,10.23578 2.22691,7.79416 4.66467,15.50007 7.67684,23.0305 1.16988,2.9247 2.03606,3.39344 3.83841,6.39736 1.29967,2.16611 3.12661,5.54141 3.83842,7.67683 0.26974,0.80921 -0.26973,1.74974 0,2.55895 0.32594,0.97782 2.08936,2.89925 2.55895,3.83842 2.66242,5.32485 -0.0883,-1.36781 2.55894,1.27947 0.63974,0.63973 0.63974,1.91921 1.27947,2.55894 0.63974,0.63974 1.91921,0.63974 2.55895,1.27948 0.30157,0.30157 -0.30158,0.97789 0,1.27947 0.30157,0.30157 0.9779,-0.30158 1.27947,0 2.64727,2.64727 -4.04538,-0.10349 1.27947,2.55894 1.35955,0.67978 3.4874,2.01545 5.11789,2.55895 1.63337,0.54445 5.29144,-1.10593 6.39736,0 0.90473,0.90472 -0.14129,2.56677 0,3.83841 0.91787,8.26079 2.06049,10.52944 5.11789,19.19209 4.18317,11.8523 15.28797,38.31847 24.30998,47.34047 6.31843,6.31844 14.17857,9.74708 21.75103,14.0742 4.49576,2.56901 8.62115,8.04746 14.07419,8.95631 1.68275,0.28045 3.42907,-0.24126 5.11789,0 2.71388,0.38769 6.31491,1.89859 8.95631,2.55894 2.24298,0.56075 4.49037,3.36167 6.39736,3.83842 1.24127,0.31031 2.65045,-0.47519 3.83841,0 2.24004,0.89601 3.23397,3.61075 5.11789,5.11789 4.09024,3.27219 8.65483,5.85138 12.79473,8.9563 1.93007,1.44756 3.18781,3.67033 5.11789,5.11789 2.54306,1.9073 6.09223,2.69279 8.9563,3.83842 3.49966,1.39986 6.66312,3.927 10.23578,5.11789 0.80921,0.26973 1.73143,-0.20688 2.55895,0 6.37852,1.59463 13.73203,3.66733 19.19208,6.39736 2.6205,1.31025 8.4366,0 11.51525,0 0.85298,0 1.9558,0.60315 2.55895,0 0.30157,-0.30158 -0.30158,-0.9779 0,-1.27947 0.63973,-0.63974 3.19868,0.63973 3.83841,0 0.30158,-0.30158 -0.30157,-0.9779 0,-1.27948 0.60315,-0.60314 1.79602,0.38147 2.55895,0 0.53947,-0.26973 0.74,-1.00973 1.27947,-1.27947 1.34235,-0.67117 5.37614,1.02123 6.39736,0 0.96713,-0.96712 0.55504,-2.55894 2.55895,-2.55894 m 56.29679,-538.65784 c 24.09658,-2.32223 44.06128,12.66884 65.25308,21.75103 16.6899,7.15283 34.3085,13.43606 49.8994,23.0305 4.6516,2.86248 8.4835,6.88259 12.7947,10.23578 5.0219,3.90588 10.5244,7.37583 15.3537,11.51525 1.3738,1.17757 2.366,2.78669 3.8384,3.83841 1.5521,1.10861 3.6527,1.33791 5.1179,2.55895 1.1813,0.98443 1.5745,2.65709 2.559,3.83841 1.1584,1.39006 2.68,2.44837 3.8384,3.83842 3.0748,3.68977 3.0795,7.43858 5.1179,11.51525 0.4306,0.86127 3.5192,4.80148 3.8384,6.39736 1.0103,5.05174 1.5312,10.2148 2.5589,15.35367 1.4969,7.48422 6.2077,16.96434 7.6769,24.30998 1.2488,6.24406 0.024,12.91207 1.2794,19.19208 0.5119,2.55915 2.0471,5.11769 2.559,7.67683 0.2509,1.25463 -0.2509,2.58379 0,3.83842 0.3705,1.85243 2.1884,4.54493 2.5589,6.39736 0.7207,3.60353 1.3876,6.72182 2.559,10.23578 0.9783,2.93499 -1.3682,7.49952 0,10.23578 1.7882,3.57646 0.5742,6.00416 1.2794,10.23578 1.8919,11.35091 3.8361,23.00905 5.1179,34.54575 0.4803,4.32277 2.1262,8.46694 2.559,12.79472 0.5245,5.24572 1.1731,29.95954 0,35.82523 -1.9105,9.55242 -8.6372,29.1087 -15.3537,35.82522 -1.4663,1.46627 -4.9311,2.37215 -6.3974,3.83842 -0.6743,0.67434 -0.6051,1.8846 -1.2794,2.55894 -0.6032,0.60315 -1.9558,-0.60315 -2.559,0 -0.6311,0.63116 0.4548,12.25522 0,14.0742 -0.8442,3.37676 -2.8591,6.80832 -3.8384,10.23578 -2.2269,7.79416 -4.6647,15.50007 -7.6768,23.0305 -1.1699,2.9247 -2.0361,3.39344 -3.8384,6.39736 -1.2997,2.16611 -3.1266,5.54141 -3.8384,7.67683 -0.2698,0.80921 0.2697,1.74974 0,2.55895 -0.326,0.97782 -2.0894,2.89925 -2.559,3.83842 -2.6624,5.32485 0.088,-1.36781 -2.5589,1.27947 -0.6398,0.63973 -0.6398,1.91921 -1.2795,2.55894 -0.6397,0.63974 -1.9192,0.63974 -2.559,1.27948 -0.3015,0.30157 0.3016,0.97789 0,1.27947 -0.3015,0.30157 -0.9779,-0.30158 -1.2794,0 -2.6473,2.64727 4.0454,-0.10349 -1.2795,2.55894 -1.3595,0.67978 -3.4874,2.01545 -5.1179,2.55895 -1.6334,0.54445 -5.2914,-1.10593 -6.3973,0 -0.9048,0.90472 0.1412,2.56677 0,3.83841 -0.9179,8.26079 -2.0605,10.52944 -5.1179,19.19209 -4.1832,11.8523 -15.288,38.31847 -24.31,47.34047 -6.3184,6.31844 -14.1786,9.74708 -21.751,14.0742 -4.4958,2.56901 -8.6212,8.04746 -14.0742,8.95631 -1.6828,0.28045 -3.4291,-0.24126 -5.1179,0 -2.7139,0.38769 -6.3149,1.89859 -8.9563,2.55894 -2.243,0.56075 -4.4904,3.36167 -6.3974,3.83842 -1.2413,0.31031 -2.6504,-0.47519 -3.8384,0 -2.24,0.89601 -3.234,3.61075 -5.1179,5.11789 -4.0902,3.27219 -8.6548,5.85138 -12.7947,8.9563 -1.9301,1.44756 -3.1878,3.67033 -5.1179,5.11789 -2.5431,1.9073 -6.0922,2.69279 -8.95632,3.83842 -3.49966,1.39986 -6.66312,3.927 -10.23578,5.11789 -0.80921,0.26973 -1.73143,-0.20688 -2.55895,0 -6.37852,1.59463 -13.73203,3.66733 -19.19208,6.39736 -2.6205,1.31025 -8.4366,0 -11.51525,0 -0.85298,0 -1.9558,0.60315 -2.55895,0 -0.30157,-0.30158 0.30158,-0.9779 0,-1.27947 -0.63973,-0.63974 -3.19868,0.63973 -3.83841,0 -0.30158,-0.30158 0.30157,-0.9779 0,-1.27948 -0.60315,-0.60314 -1.79602,0.38147 -2.55895,0 -0.53947,-0.26973 -0.74,-1.00973 -1.27947,-1.27947 -1.34235,-0.67117 -5.37614,1.02123 -6.39736,0 -0.96713,-0.96712 -0.55504,-2.55894 -2.55895,-2.55894"
+         id="path51"
+         transform="translate(24.309974,3.8384169)" />
+    </g>
+  </g>
+</svg>
+</foreignObject>
