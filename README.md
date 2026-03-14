@@ -22,4 +22,4 @@ I like learning about DSP and programming theory!
 - 🔭 I’m currently working on .. My first HomeLab! Futzing around with ProxMox right now
 - 💬 Ask me about ... Freaking Dubstep music 
 
-![CoolTexute]("./cool texture.png")
+![CoolTexute]("texture.png")
