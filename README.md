@@ -1,8 +1,8 @@
-## Hai everynyan! 👋
+## Hai everynyan!
 
 <blockquote> 
 
-*Computer is toys*
+*Playing on my computer*
 
 </blockquote>
 
@@ -11,15 +11,19 @@
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 
 
+![OccultHeart](images/occultHeart.svg)
 
 ## *About me* 
-I'm a freaking audio engineer & software development student currently studying at <a href=https://wethinkcode.co.za> WeThinkCode_ </a> :snake: :coffee: :crab:
+I'm a freaking designer, audio engineer & software development student currently studying at <a href=https://wethinkcode.co.za> WeThinkCode_ </a> :snake: :coffee: :crab:
 
-I want to help design beautiful systems for the old and busted hardware I grew up around!
-I like learning about DSP and programming theory!
+I want to help design beautiful systems and inspiring visual vocabulary for the old and busted hardware I grew up around!
+I like learning about DSP, programming theory & typefacing!
 
+## Stats
 - :transgender_flag: Pronouns: She/her!
 - 🔭 I’m currently working on .. My first HomeLab! Futzing around with ProxMox right now
 - 💬 Ask me about ... Freaking Dubstep music 
 
 ![CoolTexture](images/texture.png)
+
+<small>Designs by me</small>
