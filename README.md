@@ -21,7 +21,7 @@ I like learning about DSP, programming theory & typefacing!
 
 ## Stats
 - :transgender_flag: Pronouns: She/her!
-- 🔭 I’m currently working on .. My first HomeLab! Futzing around with ProxMox right now
+- 🔭 I’m currently working on .. Some silly typescript experiments, particularly interested in svg filter primative manipulation & image filter design
 - 💬 Ask me about ... Freaking Dubstep music 
 
 ![CoolTexture](images/texture.png)
