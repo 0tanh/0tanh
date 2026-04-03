@@ -22,7 +22,7 @@ I like learning about DSP, programming theory & typefacing!
 ## Stats
 - :transgender_flag: Pronouns: She/her!
 - 🔭 I’m currently working on .. Some silly typescript experiments, particularly interested in svg filter primative manipulation & image filter design
-- 💬 Ask me about ... Freaking Dubstep music 
+- 💬 Ask me about ... Laplace Operators and some cool things i'm working on with them 
 
 ![CoolTexture](images/texture.png)
 
